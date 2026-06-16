@@ -1,0 +1,6 @@
+{
+  "name": "FoodBridge AI",
+  "description": "A warm, simple, action-oriented food sharing app enabling restaurants, citizens, and volunteers to share fresh food with local shelters instantly.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

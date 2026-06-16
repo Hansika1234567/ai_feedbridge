@@ -1,0 +1,62 @@
+[
+  {
+    "id": "usr-1",
+    "email": "jonathan.admin@foodbridge.ai",
+    "name": "Jonathan Vance (Command Co.)",
+    "role": "Super Admin",
+    "contact": "+91 99000 11223",
+    "location": "Gachibowli Command Center, Hyderabad, Telangana",
+    "avatarUrl": "https://images.unsplash.com/photo-1472099645785-5658abf4ff4e?w=120&auto=format&fit=crop&q=80",
+    "password": "5e884898da28047151d0e56f8dc6292773603d0d6aabbdd62a11ef721d1542d8",
+    "joinedDate": "2026-01-10",
+    "points": 1000
+  },
+  {
+    "id": "usr-2",
+    "email": "sarah.volunteer@foodbridge.ai",
+    "name": "Sarah Jenkins (Rider)",
+    "role": "Volunteer",
+    "contact": "+91 80000 55432",
+    "location": "Jubilee Hills Delivery Hub, Hyderabad",
+    "avatarUrl": "https://images.unsplash.com/photo-1494790108377-be9c29b29330?w=120&auto=format&fit=crop&q=80",
+    "password": "5e884898da28047151d0e56f8dc6292773603d0d6aabbdd62a11ef721d1542d8",
+    "joinedDate": "2026-03-22",
+    "points": 820
+  },
+  {
+    "id": "usr-3",
+    "email": "chef.marcus@palacebanquet.com",
+    "name": "Marcus Aurelius (Grand Banquets)",
+    "role": "Food Donor",
+    "contact": "+91 91923 43501",
+    "location": "Road No. 12, Gachibowli, Hyderabad, Telangana",
+    "avatarUrl": "https://images.unsplash.com/photo-1583394838336-acd977736f90?w=120&auto=format&fit=crop&q=80",
+    "password": "5e884898da28047151d0e56f8dc6292773603d0d6aabbdd62a11ef721d1542d8",
+    "joinedDate": "2026-02-14",
+    "points": 340
+  },
+  {
+    "id": "usr-4",
+    "email": "sister.clara@hopepantry.org",
+    "name": "Sister Clara (Hope Shelter)",
+    "role": "NGO Admin",
+    "contact": "+91 80088 12345",
+    "location": "Ameerpet Metro Pillar 1140, Hyderabad, Telangana",
+    "avatarUrl": "https://images.unsplash.com/photo-1544005313-94ddf0286df2?w=120&auto=format&fit=crop&q=80",
+    "password": "5e884898da28047151d0e56f8dc6292773603d0d6aabbdd62a11ef721d1542d8",
+    "joinedDate": "2025-11-05",
+    "points": 450
+  },
+  {
+    "id": "usr-5",
+    "email": "emergency.shelter@citysafe.net",
+    "name": "Beacon Outreach Shelter",
+    "role": "Beneficiary/Shelter",
+    "contact": "+91 90001 55432",
+    "location": "Amberpet Main Road, Hyderabad, Telangana",
+    "avatarUrl": "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=120&auto=format&fit=crop&q=80",
+    "password": "5e884898da28047151d0e56f8dc6292773603d0d6aabbdd62a11ef721d1542d8",
+    "joinedDate": "2026-04-01",
+    "points": 210
+  }
+]
